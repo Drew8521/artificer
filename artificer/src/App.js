@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
-import { Security, LoginCallback } from '@okta/okta-react';
+// import { BrowserRouter as Router, Route } from 'react-router-dom';
+// import { Security, LoginCallback } from '@okta/okta-react';
 import LogButton from './Components/LogButton';
 import axios from 'axios';
 import UploadPhotoButton from './Components/UploadPhotoButton';
@@ -24,12 +24,7 @@ const App = () => {
     <NavBar />
     <UploadPhotoButton />
     <AllImages />
-    <Router>
-      <Security {...config}>
-        <Route path='/' exact={true} component={LogButton}/>
-        <Route path='/implicit/callback' component={LoginCallback}/>
-      </Security>
-    </Router>
+
     </div>
   );
 }
