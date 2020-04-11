@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Artificer/static/css/main.5ece4445.chunk.css",
-    "main.js": "/Artificer/static/js/main.840369c7.chunk.js",
-    "main.js.map": "/Artificer/static/js/main.840369c7.chunk.js.map",
+    "main.css": "/Artificer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Artificer/static/js/main.36c4c127.chunk.js",
+    "main.js.map": "/Artificer/static/js/main.36c4c127.chunk.js.map",
     "runtime-main.js": "/Artificer/static/js/runtime-main.1e7815a4.js",
     "runtime-main.js.map": "/Artificer/static/js/runtime-main.1e7815a4.js.map",
-    "static/js/2.4b1de018.chunk.js": "/Artificer/static/js/2.4b1de018.chunk.js",
-    "static/js/2.4b1de018.chunk.js.map": "/Artificer/static/js/2.4b1de018.chunk.js.map",
+    "static/js/2.d590e80c.chunk.js": "/Artificer/static/js/2.d590e80c.chunk.js",
+    "static/js/2.d590e80c.chunk.js.map": "/Artificer/static/js/2.d590e80c.chunk.js.map",
     "index.html": "/Artificer/index.html",
-    "precache-manifest.bb34716fc2cb027fca5195d35eb042d6.js": "/Artificer/precache-manifest.bb34716fc2cb027fca5195d35eb042d6.js",
+    "precache-manifest.b67df7646dfe000cc7abd4eaf68e6d8a.js": "/Artificer/precache-manifest.b67df7646dfe000cc7abd4eaf68e6d8a.js",
     "service-worker.js": "/Artificer/service-worker.js",
-    "static/css/main.5ece4445.chunk.css.map": "/Artificer/static/css/main.5ece4445.chunk.css.map",
-    "static/js/2.4b1de018.chunk.js.LICENSE.txt": "/Artificer/static/js/2.4b1de018.chunk.js.LICENSE.txt"
+    "static/css/main.5ecd60fb.chunk.css.map": "/Artificer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d590e80c.chunk.js.LICENSE.txt": "/Artificer/static/js/2.d590e80c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1e7815a4.js",
-    "static/js/2.4b1de018.chunk.js",
-    "static/css/main.5ece4445.chunk.css",
-    "static/js/main.840369c7.chunk.js"
+    "static/js/2.d590e80c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.36c4c127.chunk.js"
   ]
 }
