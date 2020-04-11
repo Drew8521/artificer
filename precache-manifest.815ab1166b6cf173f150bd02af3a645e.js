@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af1f7b2c3c5a9f7c910f80fe9f08b5f2",
+    "revision": "31c85093a4cd65481d175a84a12318f3",
     "url": "/Artificer/index.html"
   },
   {
-    "revision": "d361913e032b59fe45e3",
+    "revision": "7d731676f53d57219dfe",
     "url": "/Artificer/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Artificer/static/js/2.d590e80c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d361913e032b59fe45e3",
-    "url": "/Artificer/static/js/main.36c4c127.chunk.js"
+    "revision": "7d731676f53d57219dfe",
+    "url": "/Artificer/static/js/main.718a99b5.chunk.js"
   },
   {
     "revision": "7bb505fb94d9996e8037",
